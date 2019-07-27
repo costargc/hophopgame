@@ -1,0 +1,20 @@
+{
+  "name": "hophopgame",
+  "version": "1.0.0",
+  "description": "Hop Hop Game is a platform game. Idea is the make it a racing online multiplayer platform game with a basic and fast structure.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/costargc/hophopgame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/costargc/hophopgame/issues"
+  },
+  "homepage": "https://github.com/costargc/hophopgame#readme"
+}
